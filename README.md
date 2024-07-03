@@ -18,6 +18,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vsaikiran234/leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
@@ -61,6 +62,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vsaikiran234/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0072-edit-distance](https://github.com/vsaikiran234/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 | [0118-pascals-triangle](https://github.com/vsaikiran234/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,4 +187,9 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
