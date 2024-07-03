@@ -31,6 +31,7 @@
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vsaikiran234/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vsaikiran234/leetcode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
