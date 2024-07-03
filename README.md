@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vsaikiran234/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/vsaikiran234/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vsaikiran234/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vsaikiran234/leetcode/tree/master/0051-n-queens) |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vsaikiran234/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vsaikiran234/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
