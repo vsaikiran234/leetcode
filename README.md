@@ -32,6 +32,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/vsaikiran234/leetcode/tree/master/0724-find-pivot-index) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vsaikiran234/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vsaikiran234/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/vsaikiran234/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/vsaikiran234/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
