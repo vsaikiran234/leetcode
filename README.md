@@ -196,6 +196,7 @@
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vsaikiran234/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/vsaikiran234/leetcode/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vsaikiran234/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Binary Search
 |  |
 | ------- |
