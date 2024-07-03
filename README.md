@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0226-invert-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
