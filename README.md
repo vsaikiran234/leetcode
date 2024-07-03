@@ -88,6 +88,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -169,8 +170,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
