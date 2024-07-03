@@ -30,6 +30,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vsaikiran234/leetcode/tree/master/0724-find-pivot-index) |
@@ -57,6 +58,7 @@
 | [0226-invert-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vsaikiran234/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vsaikiran234/leetcode/tree/master/0547-number-of-provinces) |
@@ -77,6 +79,7 @@
 | [0226-invert-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/vsaikiran234/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vsaikiran234/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/vsaikiran234/leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -125,6 +129,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/vsaikiran234/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/vsaikiran234/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -363,7 +368,12 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/vsaikiran234/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vsaikiran234/leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vsaikiran234/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
