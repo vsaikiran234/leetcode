@@ -87,6 +87,7 @@
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/vsaikiran234/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1894-merge-strings-alternately](https://github.com/vsaikiran234/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
