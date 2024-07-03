@@ -37,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vsaikiran234/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,10 +48,12 @@
 | [0051-n-queens](https://github.com/vsaikiran234/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
