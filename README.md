@@ -47,6 +47,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/vsaikiran234/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 ## Union Find
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vsaikiran234/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
