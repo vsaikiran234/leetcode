@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vsaikiran234/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vsaikiran234/leetcode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/vsaikiran234/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -179,6 +180,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/vsaikiran234/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
