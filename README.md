@@ -59,6 +59,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vsaikiran234/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vsaikiran234/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vsaikiran234/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Stack
 |  |
 | ------- |
