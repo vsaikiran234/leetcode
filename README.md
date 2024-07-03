@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/vsaikiran234/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vsaikiran234/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -240,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
