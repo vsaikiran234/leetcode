@@ -93,6 +93,7 @@
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vsaikiran234/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -126,6 +127,7 @@
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -207,6 +209,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vsaikiran234/leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/vsaikiran234/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
