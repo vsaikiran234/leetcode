@@ -33,6 +33,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vsaikiran234/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vsaikiran234/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vsaikiran234/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
