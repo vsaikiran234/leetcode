@@ -33,6 +33,7 @@
 | [0605-can-place-flowers](https://github.com/vsaikiran234/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vsaikiran234/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Depth-First Search
@@ -148,6 +149,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,9 +265,11 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vsaikiran234/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsaikiran234/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
