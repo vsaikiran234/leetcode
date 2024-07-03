@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vsaikiran234/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
