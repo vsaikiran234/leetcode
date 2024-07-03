@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/vsaikiran234/leetcode/tree/master/0724-find-pivot-index) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/vsaikiran234/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vsaikiran234/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vsaikiran234/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vsaikiran234/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -87,6 +88,7 @@
 | [0049-group-anagrams](https://github.com/vsaikiran234/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+| [1319-unique-number-of-occurrences](https://github.com/vsaikiran234/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vsaikiran234/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
