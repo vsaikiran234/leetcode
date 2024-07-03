@@ -191,6 +191,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/vsaikiran234/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -390,4 +391,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vsaikiran234/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
