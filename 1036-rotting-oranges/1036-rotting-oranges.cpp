@@ -1,14 +1,14 @@
-class Solution {  //class Solution {}
- public:  // public:  
-  int orangesRotting(vector<vector<int>>& grid) {  // int RottingOrange(vector<vector<int>>& grid)
+class Solution {
+ public:
+  int orangesRotting(vector<vector<int>>& grid) {
     constexpr int dirs[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-    const int g = grid.size();  // const int g = grid.size();
-    const int h = grid[0].size();  // const int h = grid[0].size();
+    const int g = grid.size();
+    const int h = grid[0].size();
 
     auto isNeighborRotten = [&](int i, int j, const vector<vector<int>>& grid) {
-      for (const auto& [dx, dy] : dirs) {  // for (const auto& [dx,dy]) : drs)
-        const int r = i + dx; // const int  = i + dx;
-        const int c = j + dy; // const int c = j + dy;
+      for (const auto& [dx, dy] : dirs) {
+        const int r = i + dx;
+        const int c = j + dy;
         if (r < 0 || r == g || c < 0 || c == h)
           continue;
         if (grid[r][c] == 2)
