@@ -285,6 +285,7 @@
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vsaikiran234/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vsaikiran234/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vsaikiran234/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search Tree
@@ -412,6 +413,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vsaikiran234/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vsaikiran234/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
@@ -422,6 +424,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vsaikiran234/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Graph
 |  |
@@ -442,4 +445,5 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vsaikiran234/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
