@@ -84,6 +84,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -161,4 +162,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
