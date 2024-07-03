@@ -116,6 +116,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsaikiran234/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/vsaikiran234/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/vsaikiran234/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/vsaikiran234/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,4 +299,5 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/vsaikiran234/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
