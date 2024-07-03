@@ -41,6 +41,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vsaikiran234/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vsaikiran234/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
+| [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/vsaikiran234/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
