@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vsaikiran234/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vsaikiran234/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vsaikiran234/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vsaikiran234/leetcode/tree/master/0051-n-queens) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vsaikiran234/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
