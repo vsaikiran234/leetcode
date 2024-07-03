@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -85,14 +86,20 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
