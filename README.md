@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/vsaikiran234/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vsaikiran234/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vsaikiran234/leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
@@ -50,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
@@ -85,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
