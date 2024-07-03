@@ -90,6 +90,7 @@
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [1319-unique-number-of-occurrences](https://github.com/vsaikiran234/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vsaikiran234/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -110,6 +111,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsaikiran234/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/vsaikiran234/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
@@ -254,6 +256,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/vsaikiran234/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vsaikiran234/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -283,4 +286,8 @@
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsaikiran234/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vsaikiran234/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/vsaikiran234/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
