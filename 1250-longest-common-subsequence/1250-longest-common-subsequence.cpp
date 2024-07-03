@@ -1,4 +1,4 @@
-class Solution {    // class solution 
+class Solution {    // class solution {}
  public:  // public:
   int longestCommonSubsequence(string text1, string text2) {    // int longestcommonSubsequence( string text1, string text2)
     const int m = text1.length();  // const int m = text.length();
