@@ -137,6 +137,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/vsaikiran234/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/vsaikiran234/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vsaikiran234/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -325,6 +326,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vsaikiran234/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/vsaikiran234/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/vsaikiran234/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -453,6 +455,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vsaikiran234/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/vsaikiran234/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
@@ -498,4 +501,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vsaikiran234/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
