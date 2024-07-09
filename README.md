@@ -37,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vsaikiran234/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vsaikiran234/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vsaikiran234/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
@@ -236,6 +237,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vsaikiran234/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vsaikiran234/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
