@@ -30,6 +30,7 @@
 | [0075-sort-colors](https://github.com/vsaikiran234/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vsaikiran234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vsaikiran234/leetcode/tree/master/0118-pascals-triangle) |
@@ -348,6 +349,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vsaikiran234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -577,6 +579,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vsaikiran234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vsaikiran234/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 ## Topological Sort
