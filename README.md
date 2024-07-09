@@ -21,6 +21,7 @@
 | [0064-minimum-path-sum](https://github.com/vsaikiran234/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/vsaikiran234/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vsaikiran234/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -375,6 +376,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vsaikiran234/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vsaikiran234/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/vsaikiran234/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vsaikiran234/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vsaikiran234/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vsaikiran234/leetcode/tree/master/0148-sort-list) |
@@ -426,6 +428,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vsaikiran234/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vsaikiran234/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vsaikiran234/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
