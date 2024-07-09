@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/vsaikiran234/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vsaikiran234/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/vsaikiran234/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vsaikiran234/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vsaikiran234/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vsaikiran234/leetcode/tree/master/0048-rotate-image) |
@@ -221,6 +222,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vsaikiran234/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vsaikiran234/leetcode/tree/master/0055-jump-game) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -384,6 +387,7 @@
 | [0011-container-with-most-water](https://github.com/vsaikiran234/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vsaikiran234/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/vsaikiran234/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vsaikiran234/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vsaikiran234/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vsaikiran234/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -560,6 +564,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vsaikiran234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vsaikiran234/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 ## Topological Sort
