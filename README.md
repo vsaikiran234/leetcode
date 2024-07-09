@@ -169,6 +169,7 @@
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vsaikiran234/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vsaikiran234/leetcode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/vsaikiran234/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -197,6 +198,7 @@
 | [0392-is-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vsaikiran234/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/vsaikiran234/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/vsaikiran234/leetcode/tree/master/0768-partition-labels) |
@@ -505,6 +507,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsaikiran234/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vsaikiran234/leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/vsaikiran234/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vsaikiran234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsaikiran234/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
