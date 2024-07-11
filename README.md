@@ -62,6 +62,7 @@
 | [0322-coin-change](https://github.com/vsaikiran234/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/vsaikiran234/leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/vsaikiran234/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vsaikiran234/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -176,6 +177,7 @@
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vsaikiran234/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vsaikiran234/leetcode/tree/master/0768-partition-labels) |
@@ -439,6 +441,7 @@
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/vsaikiran234/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
@@ -560,6 +563,7 @@
 | [0155-min-stack](https://github.com/vsaikiran234/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/vsaikiran234/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/vsaikiran234/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vsaikiran234/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vsaikiran234/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -623,4 +627,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vsaikiran234/leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
