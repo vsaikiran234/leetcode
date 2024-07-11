@@ -55,6 +55,7 @@
 | [0238-product-of-array-except-self](https://github.com/vsaikiran234/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vsaikiran234/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vsaikiran234/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/vsaikiran234/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vsaikiran234/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vsaikiran234/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -467,6 +468,7 @@
 | [0148-sort-list](https://github.com/vsaikiran234/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/vsaikiran234/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/vsaikiran234/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vsaikiran234/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -617,4 +619,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vsaikiran234/leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/vsaikiran234/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
