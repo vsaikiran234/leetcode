@@ -198,6 +198,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vsaikiran234/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/vsaikiran234/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vsaikiran234/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vsaikiran234/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vsaikiran234/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -466,6 +467,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vsaikiran234/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/vsaikiran234/leetcode/tree/master/1397-search-suggestions-system) |
