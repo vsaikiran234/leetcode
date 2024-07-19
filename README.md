@@ -50,6 +50,7 @@
 | [0135-candy](https://github.com/vsaikiran234/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vsaikiran234/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vsaikiran234/leetcode/tree/master/0162-find-peak-element) |
@@ -190,6 +191,7 @@
 | [0141-linked-list-cycle](https://github.com/vsaikiran234/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vsaikiran234/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vsaikiran234/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vsaikiran234/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -480,6 +482,7 @@
 | [0048-rotate-image](https://github.com/vsaikiran234/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -682,4 +685,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
