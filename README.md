@@ -308,6 +308,7 @@
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vsaikiran234/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vsaikiran234/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/vsaikiran234/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vsaikiran234/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/vsaikiran234/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vsaikiran234/leetcode/tree/master/0338-counting-bits) |
@@ -343,6 +344,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vsaikiran234/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/vsaikiran234/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vsaikiran234/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
