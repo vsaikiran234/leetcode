@@ -223,6 +223,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vsaikiran234/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vsaikiran234/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vsaikiran234/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vsaikiran234/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vsaikiran234/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/vsaikiran234/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vsaikiran234/leetcode/tree/master/0076-minimum-window-substring) |
@@ -305,6 +306,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vsaikiran234/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vsaikiran234/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vsaikiran234/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vsaikiran234/leetcode/tree/master/0137-single-number-ii) |
@@ -491,6 +493,7 @@
 | [0048-rotate-image](https://github.com/vsaikiran234/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vsaikiran234/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vsaikiran234/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/vsaikiran234/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vsaikiran234/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -603,6 +606,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vsaikiran234/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/vsaikiran234/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vsaikiran234/leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/vsaikiran234/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
