@@ -90,6 +90,7 @@
 | [0735-asteroid-collision](https://github.com/vsaikiran234/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vsaikiran234/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/vsaikiran234/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
@@ -172,6 +173,7 @@
 | [0200-number-of-islands](https://github.com/vsaikiran234/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vsaikiran234/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vsaikiran234/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vsaikiran234/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -356,6 +358,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vsaikiran234/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -376,6 +379,7 @@
 | [0437-path-sum-iii](https://github.com/vsaikiran234/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vsaikiran234/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vsaikiran234/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/vsaikiran234/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
