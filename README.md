@@ -93,6 +93,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/vsaikiran234/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0945-snakes-and-ladders](https://github.com/vsaikiran234/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vsaikiran234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -151,6 +152,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/vsaikiran234/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/vsaikiran234/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vsaikiran234/leetcode/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/vsaikiran234/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vsaikiran234/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -179,6 +181,7 @@
 | [0221-maximal-square](https://github.com/vsaikiran234/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vsaikiran234/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0772-construct-quad-tree](https://github.com/vsaikiran234/leetcode/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/vsaikiran234/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/vsaikiran234/leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vsaikiran234/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/vsaikiran234/leetcode/tree/master/2428-equal-row-and-column-pairs) |
