@@ -226,6 +226,7 @@
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vsaikiran234/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/vsaikiran234/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vsaikiran234/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -271,6 +272,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsaikiran234/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/vsaikiran234/leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/vsaikiran234/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vsaikiran234/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vsaikiran234/leetcode/tree/master/0383-ransom-note) |
@@ -593,6 +595,7 @@
 | [0148-sort-list](https://github.com/vsaikiran234/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsaikiran234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/vsaikiran234/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/vsaikiran234/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/vsaikiran234/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vsaikiran234/leetcode/tree/master/0347-top-k-frequent-elements) |
