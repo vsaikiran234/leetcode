@@ -224,6 +224,7 @@
 | [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vsaikiran234/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vsaikiran234/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vsaikiran234/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vsaikiran234/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vsaikiran234/leetcode/tree/master/0242-valid-anagram) |
@@ -531,6 +532,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vsaikiran234/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsaikiran234/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vsaikiran234/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vsaikiran234/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -561,6 +563,7 @@
 | [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vsaikiran234/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
