@@ -54,6 +54,7 @@
 | [0137-single-number-ii](https://github.com/vsaikiran234/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/vsaikiran234/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vsaikiran234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vsaikiran234/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vsaikiran234/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vsaikiran234/leetcode/tree/master/0162-find-peak-element) |
@@ -481,6 +482,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vsaikiran234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vsaikiran234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vsaikiran234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vsaikiran234/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
@@ -572,6 +574,7 @@
 | [0069-sqrtx](https://github.com/vsaikiran234/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vsaikiran234/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/vsaikiran234/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vsaikiran234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vsaikiran234/leetcode/tree/master/0202-happy-number) |
