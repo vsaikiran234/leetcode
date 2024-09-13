@@ -283,6 +283,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vsaikiran234/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vsaikiran234/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/vsaikiran234/leetcode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/vsaikiran234/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vsaikiran234/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vsaikiran234/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsaikiran234/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -489,6 +490,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vsaikiran234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vsaikiran234/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/vsaikiran234/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vsaikiran234/leetcode/tree/master/0735-asteroid-collision) |
@@ -584,6 +586,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/vsaikiran234/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vsaikiran234/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vsaikiran234/leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/vsaikiran234/leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/vsaikiran234/leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vsaikiran234/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vsaikiran234/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -716,6 +719,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/vsaikiran234/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vsaikiran234/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vsaikiran234/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/vsaikiran234/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vsaikiran234/leetcode/tree/master/0394-decode-string) |
 ## Design
